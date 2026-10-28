@@ -1,0 +1,7 @@
+{
+  "windsor-social-media": {
+    "type": "http",
+    "url": "https://mcp.windsor.ai/social_media",
+    "description": "Windsor.ai for Social Media: Instagram, Facebook Pages, LinkedIn Pages, Threads, TikTok, YouTube and Google Business Profile data, publishing and moderation"
+  }
+}

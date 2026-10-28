@@ -1,0 +1,15 @@
+{
+  "name": "windsor-social-media",
+  "owner": {
+    "name": "Windsor.ai"
+  },
+  "description": "Windsor.ai for Social Media: publish, moderate and report on Instagram, Facebook Pages, LinkedIn Pages, Threads, TikTok, YouTube and Google Business Profile from Claude.",
+  "plugins": [
+    {
+      "name": "windsor-social-media",
+      "displayName": "Windsor.ai for Social Media",
+      "description": "Publish and manage organic social from Claude through Windsor.ai. Publish Reels, image, carousel and story posts to Instagram, text and photo posts to Facebook Pages and LinkedIn company pages, text and image posts to Threads, and local posts to Google Business Profile. Reply to, hide or delete Instagram comments, answer Threads replies, reply to Google reviews, and update Google Business Profile hours and listing details. Report on reach, views, engagement, follower growth, Reels watch time and top posts across Instagram, Facebook Pages, LinkedIn Pages, Threads, TikTok, YouTube and Google Business Profile. Claude shows every post, reply and edit and asks for your yes before running it.",
+      "source": "./"
+    }
+  ]
+}

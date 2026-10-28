@@ -1,0 +1,42 @@
+{
+  "name": "windsor-social-media",
+  "displayName": "Windsor.ai for Social Media",
+  "version": "0.1.0",
+  "description": "Publish and manage organic social from Claude through Windsor.ai. Publish Reels, image, carousel and story posts to Instagram, text and photo posts to Facebook Pages and LinkedIn company pages, text and image posts to Threads, and local posts to Google Business Profile. Reply to, hide or delete Instagram comments, answer Threads replies, reply to Google reviews, and update Google Business Profile hours and listing details. Report on reach, views, engagement, follower growth, Reels watch time and top posts across Instagram, Facebook Pages, LinkedIn Pages, Threads, TikTok, YouTube and Google Business Profile. Claude shows every post, reply and edit and asks for your yes before running it.",
+  "author": {
+    "name": "Windsor.ai",
+    "email": "support@windsor.ai",
+    "url": "https://windsor.ai"
+  },
+  "repository": "https://github.com/windsor-ai/claude-windsor-social-media-plugin",
+  "homepage": "https://windsor.ai",
+  "documentationUrl": "https://github.com/windsor-ai/claude-windsor-social-media-plugin#readme",
+  "supportUrl": "https://windsor.ai/contact-us/",
+  "privacyPolicyUrl": "https://windsor.ai/privacy-statement/",
+  "termsOfServiceUrl": "https://windsor.ai/terms-of-service/",
+  "icon": "assets/icon.png",
+  "keywords": [
+    "social-media",
+    "organic-social",
+    "social-media-management",
+    "publishing",
+    "community-management",
+    "instagram",
+    "instagram-reels",
+    "reels",
+    "facebook-pages",
+    "linkedin-pages",
+    "threads",
+    "tiktok",
+    "youtube",
+    "youtube-shorts",
+    "google-business-profile",
+    "google-reviews",
+    "review-replies",
+    "comment-moderation",
+    "engagement",
+    "agency",
+    "mcp"
+  ],
+  "license": "MIT"
+}
